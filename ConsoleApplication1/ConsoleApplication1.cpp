@@ -18,10 +18,10 @@ int main(){
             if (ch2 == 13) {
                 printf("\n");
                 if (ch == 113) {
-                    printf("qwer 화이팅");
+                    printf("하늘은 만물을 움직인다");
                 }
                 else if (ch == 119) {
-                    printf("과제 너무 좋다");
+                    printf("얼어붙은 서리");
                 }
                 else if (ch == 101) {
                     printf("담주부턴 과제량 3배다");
